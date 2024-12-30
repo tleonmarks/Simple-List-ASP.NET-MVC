@@ -98,7 +98,7 @@ $('#createProductForm').submit(function (e) {
 });
 4. Web API Endpoints
 4.1. Get All Products
-Endpoint: GET /api/productsapi
+Endpoint: GET /api/productapi
 Description: Retrieves a list of all products.
 Response: A list of products in JSON format.
 Example:
@@ -117,7 +117,7 @@ Copy code
   }
 ]
 4.2. Get Product by ID
-Endpoint: GET /api/productsapi/{id}
+Endpoint: GET /api/productapi/{id}
 Description: Retrieves a product by its ID.
 Response: The product details or 404 Not Found if the product does not exist.
 Example:
@@ -140,7 +140,7 @@ Copy code
 }
 Response: The newly created product with a 201 Created status.
 4.4. Update a Product
-Endpoint: PUT /api/productsapi/{id}
+Endpoint: PUT /api/productapi/{id}
 Description: Updates an existing product.
 Request Body:
 json
@@ -152,7 +152,7 @@ Copy code
 }
 Response: 204 No Content if the update is successful.
 4.5. Delete a Product
-Endpoint: DELETE /api/productsapi/{id}
+Endpoint: DELETE /api/productapi/{id}
 Description: Deletes a product by its ID.
 Response: 204 No Content if the deletion is successful.
 5. Error Handling
