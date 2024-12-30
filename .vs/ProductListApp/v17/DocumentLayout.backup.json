@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\productlistapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\productlistapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\productlistapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\productlistapp\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\productlistapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F629FE2-6E37-4E9B-8338-877BA9BCD2E0}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\integrationtests\\integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\integrationtests\\productsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\productsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\integrationtests\\productsuitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\productsuitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\integrationtests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\integrationtests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|c:\\users\\tleon\\desktop\\leon\\productlistapp\\integrationtests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC1F29-43FB-44D3-8E9E-68907A37901F}|IntegrationTests\\IntegrationTests.csproj|solutionrelative:integrationtests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ProductListApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\wwwroot\\js\\site.js*",
+              "RelativeToolTip": "ProductListApp\\wwwroot\\js\\site.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-30T04:01:51.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductListApp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\Views\\Products\\Index.cshtml*",
+              "RelativeToolTip": "ProductListApp\\Views\\Products\\Index.cshtml*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwE4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T04:01:24.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductListApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductListApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:01:07.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "ProductListApp\\Controllers\\ProductApiController.cs",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "ProductListApp\\Controllers\\ProductApiController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:00:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductListApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\ProductListApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductListApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T20:12:38.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntegrationTests",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "IntegrationTests\\IntegrationTests.csproj",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\IntegrationTests.csproj",
+              "RelativeToolTip": "IntegrationTests\\IntegrationTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T20:02:21.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsUITests.cs",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\ProductsUITests.cs",
+              "RelativeDocumentMoniker": "IntegrationTests\\ProductsUITests.cs",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\ProductsUITests.cs",
+              "RelativeToolTip": "IntegrationTests\\ProductsUITests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:02:31.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "IntegrationTests\\IntegrationTests.cs",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\IntegrationTests.cs",
+              "RelativeToolTip": "IntegrationTests\\IntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:41:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\ProductsApiTests.cs",
+              "RelativeDocumentMoniker": "IntegrationTests\\ProductsApiTests.cs",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\ProductsApiTests.cs",
+              "RelativeToolTip": "IntegrationTests\\ProductsApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:40:04.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\Test1.cs",
+              "RelativeDocumentMoniker": "IntegrationTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\Test1.cs",
+              "RelativeToolTip": "IntegrationTests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:55:27.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "IntegrationTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\tleon\\Desktop\\Leon\\ProductListApp\\IntegrationTests\\MSTestSettings.cs",
+              "RelativeToolTip": "IntegrationTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:38:46.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
