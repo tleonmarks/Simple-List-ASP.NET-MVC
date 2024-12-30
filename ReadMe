@@ -1,6 +1,6 @@
-echo "# Simple-List-ASP.NET-MVC"  for ASP.NET Core MVC CRUD Application with Web API
+ Simple-List-ASP.NET-MVC for ASP.NET Core MVC CRUD Application with Web API
+
 Project Overview
-This project is a web application built using ASP.NET Core 8 MVC and the Repository Pattern for managing CRUD (Create, Read, Update, Delete) operations on products. The application also exposes a RESTful API for managing products, allowing users to interact with the system via both the web interface and API endpoints.
 
 Technologies Used
 ASP.NET Core 8 for building the MVC application and Web API.
@@ -9,6 +9,7 @@ SQL Server for database storage.
 jQuery for handling AJAX requests to perform CRUD operations asynchronously without page refresh.
 Repository Pattern for separation of concerns and making the data access logic testable and reusable.
 Bootstrap 5 for modal popups and UI components.
+
 1. Project Setup
 1.1. Prerequisites
 Before setting up the project, ensure you have the following installed:
@@ -21,12 +22,12 @@ Clone the project from the repository or download the project as a ZIP file.
 
 bash
 Copy code
-git clone https://github.com/your-repository-name/CrudAppWithAjax.git
+git clone  https://github.com/tleonmarks/Simple-List-ASP.NET-MVC.git
 1.3. Install Dependencies
 Navigate to the project folder and restore the NuGet packages.
 
 bash
-Copy code
+ 
 dotnet restore
 1.4. Database Setup
 Ensure that you have SQL Server installed. The project uses Entity Framework Core for database access. You'll need to set up the connection string in appsettings.json and then apply the migrations.
@@ -51,7 +52,7 @@ The application follows a Layered Architecture with the following key components
 Model: Defines the entity that represents the product (e.g., Product).
 Repository: Contains methods for interacting with the database using Entity Framework Core.
 Controller: Handles the incoming HTTP requests and provides responses (both for the MVC views and API).
-Views: Displays the user interface for managing products.
+Views: Displays the user interface for managing products List.
 AJAX: Used for making asynchronous calls to the backend without refreshing the page.
 2.1. The Repository Pattern
 The repository pattern is used to abstract away data access logic. The IProductRepository interface defines methods for CRUD operations, and ProductRepository implements these methods to interact with the database using Entity Framework Core.
@@ -97,7 +98,7 @@ $('#createProductForm').submit(function (e) {
 });
 4. Web API Endpoints
 4.1. Get All Products
-Endpoint: GET /api/products
+Endpoint: GET /api/productsapi
 Description: Retrieves a list of all products.
 Response: A list of products in JSON format.
 Example:
@@ -116,7 +117,7 @@ Copy code
   }
 ]
 4.2. Get Product by ID
-Endpoint: GET /api/products/{id}
+Endpoint: GET /api/productsapi/{id}
 Description: Retrieves a product by its ID.
 Response: The product details or 404 Not Found if the product does not exist.
 Example:
@@ -128,7 +129,7 @@ Copy code
   "price": 25.99
 }
 4.3. Create a New Product
-Endpoint: POST /api/products
+Endpoint: POST /api/productsapi
 Description: Adds a new product to the system.
 Request Body:
 json
@@ -139,7 +140,7 @@ Copy code
 }
 Response: The newly created product with a 201 Created status.
 4.4. Update a Product
-Endpoint: PUT /api/products/{id}
+Endpoint: PUT /api/productsapi/{id}
 Description: Updates an existing product.
 Request Body:
 json
@@ -151,12 +152,12 @@ Copy code
 }
 Response: 204 No Content if the update is successful.
 4.5. Delete a Product
-Endpoint: DELETE /api/products/{id}
+Endpoint: DELETE /api/productsapi/{id}
 Description: Deletes a product by its ID.
 Response: 204 No Content if the deletion is successful.
 5. Error Handling
-The application uses standard HTTP status codes to represent the result of an API request:
 
+The application uses standard HTTP status codes to represent the result of an API request:
 200 OK: Successful GET request or successful operation.
 201 Created: Successfully created a new resource.
 204 No Content: Successfully updated or deleted a resource.
